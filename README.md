@@ -2,6 +2,8 @@
 
 A "coming soon" landing page for **Runout**, a pool training app. The planned app has a drill library, shot logging, and progress tracking.
 
+**Live demo:** https://leggiardo-code.github.io/runout/
+
 ![Runout landing page, with the nine-ball animation mid-run](images/preview.png)
 
 ## Status
